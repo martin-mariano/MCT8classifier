@@ -20,7 +20,7 @@ no installation required
 
 ----
 
-### Demo and Instructions for use
+### Demo and Instructions for use:
 Jupyter-notebooks are numerated in their order of usage. All files needed are provided.
 1-Explorative Data Analysis.
 2-Polyphen2 and Sift scores processing.
