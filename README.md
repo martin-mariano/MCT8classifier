@@ -11,9 +11,9 @@ Stefan Groeneweg and Ferdy S. van Geest *et al*.
 ----
 
 ### Requirements:
-- Python3 (Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Biopython.PDB).
+- Python3.9.7 (pandas 1.3.4, numpy 1.20.3, scikit-learn 0.24.2, matplotlib 3.4.3, seaborn 0.11.2, biopython 1.78).
 
-note: recommended to run in conda environment.
+note: recommended to run in conda environment (conda 4.14.0).
 
 ----
 
