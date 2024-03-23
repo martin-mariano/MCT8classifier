@@ -1,0 +1,481 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+P36021              	    95	    P	    A	         ?	P36021    	    95	  P	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   159	    P	    A	         ?	P36021    	   159	  P	  A	 probably damaging	     0.989	    0.0346	     0.723
+P36021              	   215	    P	    A	         ?	P36021    	   215	  P	  A	 possibly damaging	     0.597	    0.0919	     0.874
+P36021              	   247	    P	    A	         ?	P36021    	   247	  P	  A	            benign	     0.226	     0.121	     0.913
+P36021              	   282	    P	    A	         ?	P36021    	   282	  P	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   285	    P	    A	         ?	P36021    	   285	  P	  A	 probably damaging	     0.975	    0.0436	     0.762
+P36021              	   291	    P	    A	         ?	P36021    	   291	  P	  A	            benign	     0.002	     0.704	     0.987
+P36021              	   338	    P	    A	         ?	P36021    	   338	  P	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   382	    P	    A	         ?	P36021    	   382	  P	  A	 possibly damaging	     0.792	    0.0733	     0.846
+P36021              	   433	    P	    A	         ?	P36021    	   433	  P	  A	 possibly damaging	     0.599	    0.0919	     0.873
+P36021              	   441	    P	    A	         ?	P36021    	   441	  P	  A	            benign	     0.083	     0.152	     0.933
+P36021              	   458	    P	    A	         ?	P36021    	   458	  P	  A	 probably damaging	     0.988	    0.0353	     0.727
+P36021              	   463	    P	    A	         ?	P36021    	   463	  P	  A	 possibly damaging	     0.946	    0.0537	     0.795
+P36021              	   464	    P	    A	         ?	P36021    	   464	  P	  A	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   486	    P	    A	         ?	P36021    	   486	  P	  A	 possibly damaging	     0.885	    0.0641	     0.823
+P36021              	   487	    P	    A	         ?	P36021    	   487	  P	  A	            benign	     0.392	     0.105	     0.896
+P36021              	   498	    P	    A	         ?	P36021    	   498	  P	  A	 probably damaging	     0.974	    0.0438	     0.763
+P36021              	    96	    E	    A	         ?	P36021    	    96	  E	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   130	    E	    A	         ?	P36021    	   130	  E	  A	            benign	     0.013	     0.216	     0.957
+P36021              	   131	    E	    A	         ?	P36021    	   131	  E	  A	 possibly damaging	     0.571	    0.0938	     0.876
+P36021              	   132	    E	    A	         ?	P36021    	   132	  E	  A	            benign	     0.012	     0.219	     0.958
+P36021              	   134	    E	    A	         ?	P36021    	   134	  E	  A	            benign	     0.045	     0.169	     0.942
+P36021              	   140	    E	    A	         ?	P36021    	   140	  E	  A	            benign	     0.014	     0.212	     0.956
+P36021              	   347	    E	    A	         ?	P36021    	   347	  E	  A	            benign	     0.205	     0.124	     0.915
+P36021              	   348	    E	    A	         ?	P36021    	   348	  E	  A	            benign	     0.372	     0.108	     0.897
+P36021              	   349	    E	    A	         ?	P36021    	   349	  E	  A	            benign	     0.004	     0.408	     0.975
+P36021              	   352	    E	    A	         ?	P36021    	   352	  E	  A	            benign	     0.022	     0.195	     0.951
+P36021              	   355	    E	    A	         ?	P36021    	   355	  E	  A	            benign	     0.003	     0.556	     0.981
+P36021              	   437	    E	    A	         ?	P36021    	   437	  E	  A	 possibly damaging	     0.885	    0.0641	     0.823
+P36021              	    97	    G	    A	         ?	P36021    	    97	  G	  A	 probably damaging	     0.989	    0.0346	     0.723
+P36021              	    98	    G	    A	         ?	P36021    	    98	  G	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   100	    G	    A	         ?	P36021    	   100	  G	  A	 possibly damaging	     0.865	    0.0662	     0.829
+P36021              	   112	    G	    A	         ?	P36021    	   112	  G	  A	 possibly damaging	     0.885	    0.0641	     0.823
+P36021              	   116	    G	    A	         ?	P36021    	   116	  G	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   122	    G	    A	         ?	P36021    	   122	  G	  A	 probably damaging	     0.994	    0.0289	     0.689
+P36021              	   147	    G	    A	         ?	P36021    	   147	  G	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   152	    G	    A	         ?	P36021    	   152	  G	  A	 possibly damaging	      0.88	    0.0647	     0.824
+P36021              	   169	    G	    A	         ?	P36021    	   169	  G	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   177	    G	    A	         ?	P36021    	   177	  G	  A	 probably damaging	     0.988	    0.0353	     0.727
+P36021              	   184	    G	    A	         ?	P36021    	   184	  G	  A	 possibly damaging	     0.935	     0.057	     0.803
+P36021              	   202	    G	    A	         ?	P36021    	   202	  G	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   206	    G	    A	         ?	P36021    	   206	  G	  A	 probably damaging	     0.966	    0.0465	     0.775
+P36021              	   208	    G	    A	         ?	P36021    	   208	  G	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   221	    G	    A	         ?	P36021    	   221	  G	  A	            benign	      0.41	     0.103	     0.894
+P36021              	   229	    G	    A	         ?	P36021    	   229	  G	  A	            benign	      0.41	     0.103	     0.894
+P36021              	   233	    G	    A	         ?	P36021    	   233	  G	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   238	    G	    A	         ?	P36021    	   238	  G	  A	 possibly damaging	     0.866	    0.0661	     0.829
+P36021              	   254	    G	    A	         ?	P36021    	   254	  G	  A	            benign	     0.034	     0.178	     0.946
+P36021              	   295	    G	    A	         ?	P36021    	   295	  G	  A	            benign	     0.178	     0.129	     0.918
+P36021              	   327	    G	    A	         ?	P36021    	   327	  G	  A	            benign	     0.041	     0.172	     0.943
+P36021              	   334	    G	    A	         ?	P36021    	   334	  G	  A	 probably damaging	     0.988	    0.0353	     0.727
+P36021              	   364	    G	    A	         ?	P36021    	   364	  G	  A	 possibly damaging	     0.946	    0.0537	     0.795
+P36021              	   368	    G	    A	         ?	P36021    	   368	  G	  A	            benign	     0.118	     0.141	     0.927
+P36021              	   370	    G	    A	         ?	P36021    	   370	  G	  A	 probably damaging	     0.976	     0.043	      0.76
+P36021              	   375	    G	    A	         ?	P36021    	   375	  G	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   383	    G	    A	         ?	P36021    	   383	  G	  A	            benign	     0.157	     0.133	     0.921
+P36021              	   398	    G	    A	         ?	P36021    	   398	  G	  A	 probably damaging	     0.987	     0.036	     0.731
+P36021              	   411	    G	    A	         ?	P36021    	   411	  G	  A	            benign	     0.022	     0.195	     0.951
+P36021              	   412	    G	    A	         ?	P36021    	   412	  G	  A	            benign	     0.091	     0.149	     0.931
+P36021              	   421	    G	    A	         ?	P36021    	   421	  G	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   425	    G	    A	         ?	P36021    	   425	  G	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   440	    G	    A	         ?	P36021    	   440	  G	  A	 probably damaging	     0.995	    0.0277	     0.681
+P36021              	   449	    G	    A	         ?	P36021    	   449	  G	  A	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   453	    G	    A	         ?	P36021    	   453	  G	  A	 possibly damaging	     0.877	     0.065	     0.826
+P36021              	   462	    G	    A	         ?	P36021    	   462	  G	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   467	    G	    A	         ?	P36021    	   467	  G	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   474	    G	    A	         ?	P36021    	   474	  G	  A	 probably damaging	     0.988	    0.0353	     0.727
+P36021              	   484	    G	    A	         ?	P36021    	   484	  G	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   490	    G	    A	         ?	P36021    	   490	  G	  A	 possibly damaging	     0.938	    0.0564	     0.801
+P36021              	    99	    F	    A	         ?	P36021    	    99	  F	  A	            benign	      0.08	     0.154	     0.933
+P36021              	   105	    F	    A	         ?	P36021    	   105	  F	  A	            benign	     0.107	     0.143	     0.928
+P36021              	   115	    F	    A	         ?	P36021    	   115	  F	  A	 probably damaging	     0.978	    0.0417	     0.756
+P36021              	   141	    F	    A	         ?	P36021    	   141	  F	  A	            benign	     0.073	     0.156	     0.934
+P36021              	   155	    F	    A	         ?	P36021    	   155	  F	  A	            benign	      0.26	     0.118	      0.91
+P36021              	   156	    F	    A	         ?	P36021    	   156	  F	  A	            benign	     0.269	     0.116	     0.909
+P36021              	   164	    F	    A	         ?	P36021    	   164	  F	  A	            benign	     0.247	     0.119	     0.911
+P36021              	   182	    F	    A	         ?	P36021    	   182	  F	  A	            benign	     0.032	      0.18	     0.946
+P36021              	   190	    F	    A	         ?	P36021    	   190	  F	  A	 probably damaging	     0.978	    0.0417	     0.756
+P36021              	   199	    F	    A	         ?	P36021    	   199	  F	  A	 possibly damaging	      0.83	    0.0692	     0.837
+P36021              	   205	    F	    A	         ?	P36021    	   205	  F	  A	 possibly damaging	     0.685	    0.0836	     0.861
+P36021              	   211	    F	    A	         ?	P36021    	   211	  F	  A	 possibly damaging	     0.813	    0.0709	      0.84
+P36021              	   213	    F	    A	         ?	P36021    	   213	  F	  A	 possibly damaging	     0.837	    0.0686	     0.836
+P36021              	   224	    F	    A	         ?	P36021    	   224	  F	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   242	    F	    A	         ?	P36021    	   242	  F	  A	 possibly damaging	     0.707	    0.0817	     0.859
+P36021              	   246	    F	    A	         ?	P36021    	   246	  F	  A	            benign	     0.023	     0.193	      0.95
+P36021              	   248	    F	    A	         ?	P36021    	   248	  F	  A	            benign	     0.002	     0.704	     0.987
+P36021              	   263	    F	    A	         ?	P36021    	   263	  F	  A	 possibly damaging	     0.913	    0.0604	     0.813
+P36021              	   269	    F	    A	         ?	P36021    	   269	  F	  A	            benign	     0.047	     0.168	     0.942
+P36021              	   271	    F	    A	         ?	P36021    	   271	  F	  A	            benign	     0.016	     0.207	     0.955
+P36021              	   303	    F	    A	         ?	P36021    	   303	  F	  A	            benign	         0	         1	         1
+P36021              	   311	    F	    A	         ?	P36021    	   311	  F	  A	 possibly damaging	     0.645	    0.0881	     0.866
+P36021              	   316	    F	    A	         ?	P36021    	   316	  F	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   326	    F	    A	         ?	P36021    	   326	  F	  A	            benign	     0.032	      0.18	     0.946
+P36021              	   336	    F	    A	         ?	P36021    	   336	  F	  A	 probably damaging	     0.997	    0.0167	     0.409
+P36021              	   350	    F	    A	         ?	P36021    	   350	  F	  A	 possibly damaging	     0.948	    0.0532	     0.793
+P36021              	   394	    F	    A	         ?	P36021    	   394	  F	  A	 possibly damaging	     0.461	    0.0994	     0.888
+P36021              	   410	    F	    A	         ?	P36021    	   410	  F	  A	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   419	    F	    A	         ?	P36021    	   419	  F	  A	            benign	     0.032	      0.18	     0.946
+P36021              	   426	    F	    A	         ?	P36021    	   426	  F	  A	            benign	     0.008	     0.239	     0.963
+P36021              	   427	    F	    A	         ?	P36021    	   427	  F	  A	 possibly damaging	     0.912	    0.0606	     0.814
+P36021              	   436	    F	    A	         ?	P36021    	   436	  F	  A	 possibly damaging	     0.461	    0.0994	     0.888
+P36021              	   473	    F	    A	         ?	P36021    	   473	  F	  A	            benign	     0.334	     0.111	     0.902
+P36021              	   480	    F	    A	         ?	P36021    	   480	  F	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   482	    F	    A	         ?	P36021    	   482	  F	  A	            benign	     0.174	      0.13	     0.919
+P36021              	   495	    F	    A	         ?	P36021    	   495	  F	  A	            benign	      0.03	     0.182	     0.947
+P36021              	   496	    F	    A	         ?	P36021    	   496	  F	  A	            benign	     0.297	     0.114	     0.906
+P36021              	   101	    W	    A	         ?	P36021    	   101	  W	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   109	    W	    A	         ?	P36021    	   109	  W	  A	            benign	     0.174	      0.13	     0.919
+P36021              	   145	    W	    A	         ?	P36021    	   145	  W	  A	 probably damaging	     0.989	    0.0346	     0.723
+P36021              	   324	    W	    A	         ?	P36021    	   324	  W	  A	 possibly damaging	     0.912	    0.0606	     0.814
+P36021              	   357	    W	    A	         ?	P36021    	   357	  W	  A	            benign	     0.032	      0.18	     0.946
+P36021              	   102	    V	    A	         ?	P36021    	   102	  V	  A	            benign	     0.252	     0.118	     0.911
+P36021              	   103	    V	    A	         ?	P36021    	   103	  V	  A	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   104	    V	    A	         ?	P36021    	   104	  V	  A	 possibly damaging	     0.599	    0.0919	     0.873
+P36021              	   121	    V	    A	         ?	P36021    	   121	  V	  A	            benign	     0.001	     0.852	     0.994
+P36021              	   139	    V	    A	         ?	P36021    	   139	  V	  A	            benign	     0.005	      0.26	     0.968
+P36021              	   146	    V	    A	         ?	P36021    	   146	  V	  A	 possibly damaging	     0.835	    0.0687	     0.836
+P36021              	   161	    V	    A	         ?	P36021    	   161	  V	  A	            benign	     0.041	     0.172	     0.943
+P36021              	   180	    V	    A	         ?	P36021    	   180	  V	  A	 possibly damaging	     0.755	    0.0772	     0.852
+P36021              	   218	    V	    A	         ?	P36021    	   218	  V	  A	            benign	     0.115	     0.142	     0.927
+P36021              	   234	    V	    A	         ?	P36021    	   234	  V	  A	            benign	     0.132	     0.139	     0.925
+P36021              	   235	    V	    A	         ?	P36021    	   235	  V	  A	            benign	     0.384	     0.106	     0.897
+P36021              	   265	    V	    A	         ?	P36021    	   265	  V	  A	            benign	     0.115	     0.142	     0.927
+P36021              	   272	    V	    A	         ?	P36021    	   272	  V	  A	            benign	     0.006	     0.253	     0.967
+P36021              	   296	    V	    A	         ?	P36021    	   296	  V	  A	            benign	         0	         1	         1
+P36021              	   315	    V	    A	         ?	P36021    	   315	  V	  A	            benign	      0.41	     0.103	     0.894
+P36021              	   337	    V	    A	         ?	P36021    	   337	  V	  A	 possibly damaging	     0.576	    0.0936	     0.876
+P36021              	   340	    V	    A	         ?	P36021    	   340	  V	  A	 possibly damaging	     0.751	    0.0775	     0.853
+P36021              	   346	    V	    A	         ?	P36021    	   346	  V	  A	            benign	     0.005	      0.26	     0.968
+P36021              	   358	    V	    A	         ?	P36021    	   358	  V	  A	            benign	     0.425	     0.103	     0.892
+P36021              	   361	    V	    A	         ?	P36021    	   361	  V	  A	            benign	     0.009	     0.233	     0.961
+P36021              	   373	    V	    A	         ?	P36021    	   373	  V	  A	            benign	     0.016	     0.207	     0.955
+P36021              	   391	    V	    A	         ?	P36021    	   391	  V	  A	            benign	     0.392	     0.105	     0.896
+P36021              	   415	    V	    A	         ?	P36021    	   415	  V	  A	            benign	     0.015	     0.209	     0.956
+P36021              	   416	    V	    A	         ?	P36021    	   416	  V	  A	            benign	     0.242	      0.12	     0.912
+P36021              	   439	    V	    A	         ?	P36021    	   439	  V	  A	 probably damaging	     0.967	     0.046	     0.773
+P36021              	   478	    V	    A	         ?	P36021    	   478	  V	  A	            benign	     0.044	      0.17	     0.942
+P36021              	   485	    V	    A	         ?	P36021    	   485	  V	  A	            benign	     0.083	     0.152	     0.933
+P36021              	   492	    V	    A	         ?	P36021    	   492	  V	  A	            benign	     0.001	     0.852	     0.994
+P36021              	   497	    V	    A	         ?	P36021    	   497	  V	  A	 probably damaging	     0.987	     0.036	     0.731
+P36021              	   108	    T	    A	         ?	P36021    	   108	  T	  A	            benign	     0.026	     0.188	     0.949
+P36021              	   165	    T	    A	         ?	P36021    	   165	  T	  A	            benign	     0.107	     0.143	     0.928
+P36021              	   173	    T	    A	         ?	P36021    	   173	  T	  A	 possibly damaging	     0.576	    0.0936	     0.876
+P36021              	   175	    T	    A	         ?	P36021    	   175	  T	  A	            benign	     0.001	     0.852	     0.994
+P36021              	   187	    T	    A	         ?	P36021    	   187	  T	  A	            benign	         0	         1	         1
+P36021              	   191	    T	    A	         ?	P36021    	   191	  T	  A	            benign	     0.015	     0.209	     0.956
+P36021              	   200	    T	    A	         ?	P36021    	   200	  T	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   262	    T	    A	         ?	P36021    	   262	  T	  A	            benign	     0.193	     0.126	     0.917
+P36021              	   268	    T	    A	         ?	P36021    	   268	  T	  A	            benign	     0.001	     0.852	     0.994
+P36021              	   279	    T	    A	         ?	P36021    	   279	  T	  A	            benign	     0.115	     0.142	     0.927
+P36021              	   290	    T	    A	         ?	P36021    	   290	  T	  A	            benign	     0.028	     0.185	     0.948
+P36021              	   320	    T	    A	         ?	P36021    	   320	  T	  A	            benign	     0.025	     0.189	     0.949
+P36021              	   356	    T	    A	         ?	P36021    	   356	  T	  A	            benign	     0.004	     0.408	     0.975
+P36021              	   366	    T	    A	         ?	P36021    	   366	  T	  A	            benign	     0.232	     0.121	     0.912
+P36021              	   429	    T	    A	         ?	P36021    	   429	  T	  A	            benign	     0.213	     0.123	     0.915
+P36021              	   110	    C	    A	         ?	P36021    	   110	  C	  A	            benign	     0.065	     0.159	     0.937
+P36021              	   157	    C	    A	         ?	P36021    	   157	  C	  A	            benign	     0.066	     0.158	     0.936
+P36021              	   207	    C	    A	         ?	P36021    	   207	  C	  A	            benign	     0.092	     0.148	     0.931
+P36021              	   209	    C	    A	         ?	P36021    	   209	  C	  A	            benign	     0.006	     0.253	     0.967
+P36021              	   362	    C	    A	         ?	P36021    	   362	  C	  A	 possibly damaging	     0.664	     0.086	     0.864
+P36021              	   417	    C	    A	         ?	P36021    	   417	  C	  A	            benign	     0.054	     0.164	      0.94
+P36021              	   423	    C	    A	         ?	P36021    	   423	  C	  A	            benign	     0.032	      0.18	     0.946
+P36021              	   472	    C	    A	         ?	P36021    	   472	  C	  A	            benign	     0.016	     0.207	     0.955
+P36021              	   111	    N	    A	         ?	P36021    	   111	  N	  A	 possibly damaging	     0.911	    0.0607	     0.814
+P36021              	   119	    N	    A	         ?	P36021    	   119	  N	  A	 probably damaging	     0.997	    0.0167	     0.409
+P36021              	   136	    N	    A	         ?	P36021    	   136	  N	  A	            benign	     0.006	     0.253	     0.967
+P36021              	   232	    N	    A	         ?	P36021    	   232	  N	  A	 probably damaging	     0.981	    0.0399	      0.75
+P36021              	   312	    N	    A	         ?	P36021    	   312	  N	  A	 possibly damaging	     0.955	    0.0505	     0.786
+P36021              	   471	    N	    A	         ?	P36021    	   471	  N	  A	 possibly damaging	      0.52	     0.096	     0.882
+P36021              	   113	    S	    A	         ?	P36021    	   113	  S	  A	            benign	     0.137	     0.137	     0.924
+P36021              	   120	    S	    A	         ?	P36021    	   120	  S	  A	            benign	     0.309	     0.113	     0.904
+P36021              	   126	    S	    A	         ?	P36021    	   126	  S	  A	            benign	      0.03	     0.182	     0.947
+P36021              	   158	    S	    A	         ?	P36021    	   158	  S	  A	            benign	     0.204	     0.124	     0.915
+P36021              	   162	    S	    A	         ?	P36021    	   162	  S	  A	            benign	     0.029	     0.183	     0.948
+P36021              	   188	    S	    A	         ?	P36021    	   188	  S	  A	            benign	     0.417	     0.103	     0.893
+P36021              	   189	    S	    A	         ?	P36021    	   189	  S	  A	 probably damaging	     0.973	     0.044	     0.765
+P36021              	   192	    S	    A	         ?	P36021    	   192	  S	  A	            benign	     0.066	     0.158	     0.936
+P36021              	   193	    S	    A	         ?	P36021    	   193	  S	  A	            benign	     0.197	     0.126	     0.916
+P36021              	   195	    S	    A	         ?	P36021    	   195	  S	  A	            benign	     0.014	     0.212	     0.956
+P36021              	   210	    S	    A	         ?	P36021    	   210	  S	  A	 possibly damaging	     0.725	    0.0797	     0.856
+P36021              	   216	    S	    A	         ?	P36021    	   216	  S	  A	            benign	     0.384	     0.106	     0.897
+P36021              	   236	    S	    A	         ?	P36021    	   236	  S	  A	            benign	         0	         1	         1
+P36021              	   239	    S	    A	         ?	P36021    	   239	  S	  A	            benign	     0.403	     0.105	     0.894
+P36021              	   240	    S	    A	         ?	P36021    	   240	  S	  A	            benign	     0.313	     0.112	     0.904
+P36021              	   243	    S	    A	         ?	P36021    	   243	  S	  A	            benign	     0.153	     0.133	     0.921
+P36021              	   245	    S	    A	         ?	P36021    	   245	  S	  A	            benign	     0.002	     0.704	     0.987
+P36021              	   267	    S	    A	         ?	P36021    	   267	  S	  A	            benign	     0.114	     0.142	     0.927
+P36021              	   277	    S	    A	         ?	P36021    	   277	  S	  A	            benign	     0.015	     0.209	     0.956
+P36021              	   286	    S	    A	         ?	P36021    	   286	  S	  A	            benign	     0.012	     0.219	     0.958
+P36021              	   287	    S	    A	         ?	P36021    	   287	  S	  A	            benign	     0.016	     0.207	     0.955
+P36021              	   292	    S	    A	         ?	P36021    	   292	  S	  A	            benign	         0	         1	         1
+P36021              	   351	    S	    A	         ?	P36021    	   351	  S	  A	            benign	     0.001	     0.852	     0.994
+P36021              	   367	    S	    A	         ?	P36021    	   367	  S	  A	 possibly damaging	     0.946	    0.0537	     0.795
+P36021              	   374	    S	    A	         ?	P36021    	   374	  S	  A	            benign	     0.118	     0.141	     0.927
+P36021              	   378	    S	    A	         ?	P36021    	   378	  S	  A	            benign	      0.02	     0.198	     0.952
+P36021              	   380	    S	    A	         ?	P36021    	   380	  S	  A	 possibly damaging	     0.768	    0.0762	      0.85
+P36021              	   393	    S	    A	         ?	P36021    	   393	  S	  A	            benign	     0.018	     0.202	     0.953
+P36021              	   401	    S	    A	         ?	P36021    	   401	  S	  A	            benign	     0.051	     0.165	     0.941
+P36021              	   445	    S	    A	         ?	P36021    	   445	  S	  A	            benign	     0.169	     0.131	     0.919
+P36021              	   512	    S	    A	         ?	P36021    	   512	  S	  A	            benign	     0.052	     0.165	      0.94
+P36021              	   513	    S	    A	         ?	P36021    	   513	  S	  A	            benign	     0.094	     0.147	     0.931
+P36021              	   114	    I	    A	         ?	P36021    	   114	  I	  A	 possibly damaging	     0.461	    0.0994	     0.888
+P36021              	   117	    I	    A	         ?	P36021    	   117	  I	  A	 probably damaging	      0.99	    0.0338	     0.719
+P36021              	   123	    I	    A	         ?	P36021    	   123	  I	  A	 possibly damaging	     0.911	    0.0607	     0.814
+P36021              	   154	    I	    A	         ?	P36021    	   154	  I	  A	            benign	     0.017	     0.205	     0.954
+P36021              	   160	    I	    A	         ?	P36021    	   160	  I	  A	 probably damaging	     0.959	    0.0488	     0.782
+P36021              	   163	    I	    A	         ?	P36021    	   163	  I	  A	            benign	     0.006	     0.253	     0.967
+P36021              	   172	    I	    A	         ?	P36021    	   172	  I	  A	            benign	     0.047	     0.168	     0.942
+P36021              	   183	    I	    A	         ?	P36021    	   183	  I	  A	            benign	     0.029	     0.183	     0.948
+P36021              	   203	    I	    A	         ?	P36021    	   203	  I	  A	 possibly damaging	     0.681	    0.0843	     0.862
+P36021              	   219	    I	    A	         ?	P36021    	   219	  I	  A	 possibly damaging	     0.479	    0.0986	     0.886
+P36021              	   241	    I	    A	         ?	P36021    	   241	  I	  A	            benign	     0.029	     0.183	     0.948
+P36021              	   250	    I	    A	         ?	P36021    	   250	  I	  A	            benign	     0.066	     0.158	     0.936
+P36021              	   257	    I	    A	         ?	P36021    	   257	  I	  A	 possibly damaging	     0.717	    0.0808	     0.857
+P36021              	   323	    I	    A	         ?	P36021    	   323	  I	  A	 possibly damaging	     0.479	    0.0986	     0.886
+P36021              	   328	    I	    A	         ?	P36021    	   328	  I	  A	            benign	      0.29	     0.115	     0.907
+P36021              	   353	    I	    A	         ?	P36021    	   353	  I	  A	            benign	     0.016	     0.207	     0.955
+P36021              	   363	    I	    A	         ?	P36021    	   363	  I	  A	 probably damaging	     0.981	    0.0399	      0.75
+P36021              	   377	    I	    A	         ?	P36021    	   377	  I	  A	            benign	     0.173	      0.13	     0.919
+P36021              	   381	    I	    A	         ?	P36021    	   381	  I	  A	            benign	     0.198	     0.125	     0.916
+P36021              	   387	    I	    A	         ?	P36021    	   387	  I	  A	 possibly damaging	     0.845	    0.0676	     0.835
+P36021              	   414	    I	    A	         ?	P36021    	   414	  I	  A	            benign	     0.078	     0.154	     0.933
+P36021              	   428	    I	    A	         ?	P36021    	   428	  I	  A	            benign	     0.029	     0.183	     0.948
+P36021              	   430	    I	    A	         ?	P36021    	   430	  I	  A	            benign	     0.174	      0.13	     0.919
+P36021              	   434	    I	    A	         ?	P36021    	   434	  I	  A	 possibly damaging	     0.638	    0.0888	     0.867
+P36021              	   448	    I	    A	         ?	P36021    	   448	  I	  A	 probably damaging	      0.99	    0.0338	     0.719
+P36021              	   460	    I	    A	         ?	P36021    	   460	  I	  A	            benign	     0.006	     0.253	     0.967
+P36021              	   465	    I	    A	         ?	P36021    	   465	  I	  A	 possibly damaging	     0.956	    0.0501	     0.785
+P36021              	   488	    I	    A	         ?	P36021    	   488	  I	  A	 possibly damaging	     0.638	    0.0888	     0.867
+P36021              	   489	    I	    A	         ?	P36021    	   489	  I	  A	            benign	     0.017	     0.205	     0.954
+P36021              	   493	    I	    A	         ?	P36021    	   493	  I	  A	            benign	     0.297	     0.114	     0.906
+P36021              	   114	    I	    L	         ?	P36021    	   114	  I	  L	            benign	     0.213	     0.123	     0.915
+P36021              	   114	    I	    N	         ?	P36021    	   114	  I	  N	 possibly damaging	     0.774	    0.0755	     0.849
+P36021              	   118	    H	    A	         ?	P36021    	   118	  H	  A	            benign	      0.01	     0.226	      0.96
+P36021              	   186	    H	    A	         ?	P36021    	   186	  H	  A	            benign	     0.003	     0.556	     0.981
+P36021              	   222	    H	    A	         ?	P36021    	   222	  H	  A	 possibly damaging	     0.685	    0.0836	     0.861
+P36021              	   341	    H	    A	         ?	P36021    	   341	  H	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   376	    H	    A	         ?	P36021    	   376	  H	  A	            benign	     0.001	     0.852	     0.994
+P36021              	   477	    H	    A	         ?	P36021    	   477	  H	  A	            benign	     0.319	     0.112	     0.903
+P36021              	   501	    H	    A	         ?	P36021    	   501	  H	  A	            benign	     0.174	      0.13	     0.919
+P36021              	   118	    H	    P	         ?	P36021    	   118	  H	  P	 possibly damaging	     0.586	     0.093	     0.875
+P36021              	   118	    H	    F	         ?	P36021    	   118	  H	  F	            benign	     0.052	     0.165	      0.94
+P36021              	   118	    H	    Q	         ?	P36021    	   118	  H	  Q	            benign	         0	         1	         1
+P36021              	   118	    H	    R	         ?	P36021    	   118	  H	  R	            benign	     0.091	     0.149	     0.931
+P36021              	   501	    H	    R	         ?	P36021    	   501	  H	  R	            benign	      0.05	     0.166	     0.941
+P36021              	   119	    N	    I	         ?	P36021    	   119	  N	  I	 possibly damaging	     0.949	    0.0529	     0.792
+P36021              	   120	    S	    F	         ?	P36021    	   120	  S	  F	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   158	    S	    F	         ?	P36021    	   158	  S	  F	 probably damaging	     0.994	    0.0289	     0.689
+P36021              	   216	    S	    F	         ?	P36021    	   216	  S	  F	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   122	    G	    V	         ?	P36021    	   122	  G	  V	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   122	    G	    E	         ?	P36021    	   122	  G	  E	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   177	    G	    E	         ?	P36021    	   177	  G	  E	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   327	    G	    E	         ?	P36021    	   327	  G	  E	 probably damaging	     0.983	    0.0387	     0.745
+P36021              	   490	    G	    E	         ?	P36021    	   490	  G	  E	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   124	    L	    A	         ?	P36021    	   124	  L	  A	 possibly damaging	     0.895	    0.0631	      0.82
+P36021              	   128	    L	    A	         ?	P36021    	   128	  L	  A	 probably damaging	     0.995	    0.0277	     0.681
+P36021              	   129	    L	    A	         ?	P36021    	   129	  L	  A	 possibly damaging	     0.688	    0.0832	     0.861
+P36021              	   149	    L	    A	         ?	P36021    	   149	  L	  A	 possibly damaging	     0.942	    0.0552	     0.798
+P36021              	   168	    L	    A	         ?	P36021    	   168	  L	  A	            benign	     0.066	     0.158	     0.936
+P36021              	   185	    L	    A	         ?	P36021    	   185	  L	  A	 possibly damaging	     0.584	    0.0932	     0.875
+P36021              	   194	    L	    A	         ?	P36021    	   194	  L	  A	 probably damaging	     0.994	    0.0289	     0.689
+P36021              	   196	    L	    A	         ?	P36021    	   196	  L	  A	            benign	     0.002	     0.704	     0.987
+P36021              	   204	    L	    A	         ?	P36021    	   204	  L	  A	 possibly damaging	     0.681	    0.0843	     0.862
+P36021              	   217	    L	    A	         ?	P36021    	   217	  L	  A	 possibly damaging	      0.83	    0.0692	     0.837
+P36021              	   220	    L	    A	         ?	P36021    	   220	  L	  A	 possibly damaging	     0.949	    0.0529	     0.792
+P36021              	   228	    L	    A	         ?	P36021    	   228	  L	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   230	    L	    A	         ?	P36021    	   230	  L	  A	 possibly damaging	     0.949	    0.0529	     0.792
+P36021              	   249	    L	    A	         ?	P36021    	   249	  L	  A	 possibly damaging	     0.513	    0.0962	     0.883
+P36021              	   253	    L	    A	         ?	P36021    	   253	  L	  A	 possibly damaging	     0.692	    0.0829	      0.86
+P36021              	   259	    L	    A	         ?	P36021    	   259	  L	  A	 probably damaging	      0.98	    0.0405	     0.753
+P36021              	   266	    L	    A	         ?	P36021    	   266	  L	  A	 probably damaging	     0.962	    0.0478	     0.779
+P36021              	   273	    L	    A	         ?	P36021    	   273	  L	  A	            benign	     0.168	     0.131	     0.919
+P36021              	   275	    L	    A	         ?	P36021    	   275	  L	  A	            benign	     0.137	     0.137	     0.924
+P36021              	   276	    L	    A	         ?	P36021    	   276	  L	  A	            benign	     0.056	     0.163	     0.939
+P36021              	   278	    L	    A	         ?	P36021    	   278	  L	  A	            benign	     0.313	     0.112	     0.904
+P36021              	   283	    L	    A	         ?	P36021    	   283	  L	  A	 possibly damaging	     0.685	    0.0836	     0.861
+P36021              	   284	    L	    A	         ?	P36021    	   284	  L	  A	            benign	     0.092	     0.148	     0.931
+P36021              	   304	    L	    A	         ?	P36021    	   304	  L	  A	            benign	     0.003	     0.556	     0.981
+P36021              	   307	    L	    A	         ?	P36021    	   307	  L	  A	            benign	     0.017	     0.205	     0.954
+P36021              	   333	    L	    A	         ?	P36021    	   333	  L	  A	 possibly damaging	      0.83	    0.0692	     0.837
+P36021              	   342	    L	    A	         ?	P36021    	   342	  L	  A	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   359	    L	    A	         ?	P36021    	   359	  L	  A	 probably damaging	     0.996	    0.0222	     0.545
+P36021              	   360	    L	    A	         ?	P36021    	   360	  L	  A	 possibly damaging	     0.916	    0.0599	     0.812
+P36021              	   369	    L	    A	         ?	P36021    	   369	  L	  A	            benign	     0.059	     0.162	     0.938
+P36021              	   372	    L	    A	         ?	P36021    	   372	  L	  A	 possibly damaging	     0.824	    0.0697	     0.838
+P36021              	   384	    L	    A	         ?	P36021    	   384	  L	  A	 possibly damaging	     0.461	    0.0994	     0.888
+P36021              	   389	    L	    A	         ?	P36021    	   389	  L	  A	 probably damaging	     0.989	    0.0346	     0.723
+P36021              	   392	    L	    A	         ?	P36021    	   392	  L	  A	            benign	     0.003	     0.556	     0.981
+P36021              	   395	    L	    A	         ?	P36021    	   395	  L	  A	 possibly damaging	     0.895	    0.0631	      0.82
+P36021              	   396	    L	    A	         ?	P36021    	   396	  L	  A	            benign	     0.227	     0.121	     0.913
+P36021              	   397	    L	    A	         ?	P36021    	   397	  L	  A	            benign	     0.297	     0.114	     0.906
+P36021              	   399	    L	    A	         ?	P36021    	   399	  L	  A	 possibly damaging	     0.487	    0.0979	     0.885
+P36021              	   413	    L	    A	         ?	P36021    	   413	  L	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   418	    L	    A	         ?	P36021    	   418	  L	  A	 possibly damaging	     0.681	    0.0843	     0.862
+P36021              	   420	    L	    A	         ?	P36021    	   420	  L	  A	 possibly damaging	     0.955	    0.0505	     0.786
+P36021              	   422	    L	    A	         ?	P36021    	   422	  L	  A	 possibly damaging	     0.954	     0.051	     0.787
+P36021              	   438	    L	    A	         ?	P36021    	   438	  L	  A	 possibly damaging	     0.817	    0.0705	      0.84
+P36021              	   451	    L	    A	         ?	P36021    	   451	  L	  A	 possibly damaging	     0.911	    0.0607	     0.814
+P36021              	   452	    L	    A	         ?	P36021    	   452	  L	  A	 probably damaging	     0.961	     0.048	      0.78
+P36021              	   457	    L	    A	         ?	P36021    	   457	  L	  A	 possibly damaging	     0.834	    0.0688	     0.837
+P36021              	   468	    L	    A	         ?	P36021    	   468	  L	  A	 possibly damaging	     0.495	     0.097	     0.884
+P36021              	   469	    L	    A	         ?	P36021    	   469	  L	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   494	    L	    A	         ?	P36021    	   494	  L	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   499	    L	    A	         ?	P36021    	   499	  L	  A	            benign	     0.334	     0.111	     0.902
+P36021              	   125	    Y	    A	         ?	P36021    	   125	  Y	  A	 probably damaging	      0.99	    0.0338	     0.719
+P36021              	   198	    Y	    A	         ?	P36021    	   198	  Y	  A	 probably damaging	     0.997	    0.0167	     0.409
+P36021              	   201	    Y	    A	         ?	P36021    	   201	  Y	  A	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   223	    Y	    A	         ?	P36021    	   223	  Y	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   280	    Y	    A	         ?	P36021    	   280	  Y	  A	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   310	    Y	    A	         ?	P36021    	   310	  Y	  A	            benign	     0.045	     0.169	     0.942
+P36021              	   321	    Y	    A	         ?	P36021    	   321	  Y	  A	 probably damaging	     0.962	    0.0478	     0.779
+P36021              	   335	    Y	    A	         ?	P36021    	   335	  Y	  A	 possibly damaging	      0.83	    0.0692	     0.837
+P36021              	   339	    Y	    A	         ?	P36021    	   339	  Y	  A	 possibly damaging	     0.907	    0.0615	     0.815
+P36021              	   345	    Y	    A	         ?	P36021    	   345	  Y	  A	            benign	     0.141	     0.136	     0.923
+P36021              	   388	    Y	    A	         ?	P36021    	   388	  Y	  A	 possibly damaging	     0.834	    0.0688	     0.837
+P36021              	   450	    Y	    A	         ?	P36021    	   450	  Y	  A	 possibly damaging	      0.52	     0.096	     0.882
+P36021              	   476	    Y	    A	         ?	P36021    	   476	  Y	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   481	    Y	    A	         ?	P36021    	   481	  Y	  A	 probably damaging	     0.981	    0.0399	      0.75
+P36021              	   127	    M	    A	         ?	P36021    	   127	  M	  A	            benign	     0.006	     0.253	     0.967
+P36021              	   151	    M	    A	         ?	P36021    	   151	  M	  A	            benign	     0.003	     0.556	     0.981
+P36021              	   153	    M	    A	         ?	P36021    	   153	  M	  A	            benign	     0.429	     0.102	     0.892
+P36021              	   244	    M	    A	         ?	P36021    	   244	  M	  A	            benign	     0.001	     0.852	     0.994
+P36021              	   252	    M	    A	         ?	P36021    	   252	  M	  A	            benign	         0	         1	         1
+P36021              	   270	    M	    A	         ?	P36021    	   270	  M	  A	            benign	     0.092	     0.148	     0.931
+P36021              	   274	    M	    A	         ?	P36021    	   274	  M	  A	            benign	         0	         1	         1
+P36021              	   313	    M	    A	         ?	P36021    	   313	  M	  A	            benign	     0.008	     0.239	     0.963
+P36021              	   343	    M	    A	         ?	P36021    	   343	  M	  A	            benign	     0.006	     0.253	     0.967
+P36021              	   400	    M	    A	         ?	P36021    	   400	  M	  A	            benign	     0.065	     0.159	     0.937
+P36021              	   402	    M	    A	         ?	P36021    	   402	  M	  A	            benign	     0.092	     0.148	     0.931
+P36021              	   403	    M	    A	         ?	P36021    	   403	  M	  A	            benign	     0.032	      0.18	     0.946
+P36021              	   431	    M	    A	         ?	P36021    	   431	  M	  A	 possibly damaging	     0.664	     0.086	     0.864
+P36021              	   442	    M	    A	         ?	P36021    	   442	  M	  A	            benign	     0.032	      0.18	     0.946
+P36021              	   454	    M	    A	         ?	P36021    	   454	  M	  A	            benign	     0.016	     0.207	     0.955
+P36021              	   455	    M	    A	         ?	P36021    	   455	  M	  A	            benign	     0.334	     0.111	     0.902
+P36021              	   459	    M	    A	         ?	P36021    	   459	  M	  A	 possibly damaging	     0.664	     0.086	     0.864
+P36021              	   500	    M	    A	         ?	P36021    	   500	  M	  A	            benign	     0.006	     0.253	     0.967
+P36021              	   129	    L	    P	         ?	P36021    	   129	  L	  P	 probably damaging	     0.997	    0.0167	     0.409
+P36021              	   230	    L	    P	         ?	P36021    	   230	  L	  P	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   395	    L	    P	         ?	P36021    	   395	  L	  P	 possibly damaging	     0.526	    0.0958	     0.881
+P36021              	   397	    L	    P	         ?	P36021    	   397	  L	  P	 probably damaging	     0.994	    0.0289	     0.689
+P36021              	   418	    L	    P	         ?	P36021    	   418	  L	  P	 probably damaging	     0.997	    0.0167	     0.409
+P36021              	   420	    L	    P	         ?	P36021    	   420	  L	  P	 probably damaging	     0.994	    0.0289	     0.689
+P36021              	   438	    L	    P	         ?	P36021    	   438	  L	  P	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   469	    L	    P	         ?	P36021    	   469	  L	  P	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   494	    L	    P	         ?	P36021    	   494	  L	  P	 probably damaging	     0.995	    0.0277	     0.681
+P36021              	   129	    L	    I	         ?	P36021    	   129	  L	  I	 possibly damaging	     0.624	    0.0896	     0.869
+P36021              	   217	    L	    I	         ?	P36021    	   217	  L	  I	 possibly damaging	     0.616	    0.0906	     0.871
+P36021              	   230	    L	    I	         ?	P36021    	   230	  L	  I	 possibly damaging	     0.949	    0.0529	     0.792
+P36021              	   133	    K	    A	         ?	P36021    	   133	  K	  A	            benign	     0.004	     0.408	     0.975
+P36021              	   135	    K	    A	         ?	P36021    	   135	  K	  A	            benign	     0.006	     0.253	     0.967
+P36021              	   256	    K	    A	         ?	P36021    	   256	  K	  A	            benign	     0.017	     0.205	     0.954
+P36021              	   258	    K	    A	         ?	P36021    	   258	  K	  A	            benign	       0.1	     0.145	     0.929
+P36021              	   293	    K	    A	         ?	P36021    	   293	  K	  A	            benign	     0.393	     0.105	     0.896
+P36021              	   309	    K	    A	         ?	P36021    	   309	  K	  A	            benign	     0.066	     0.158	     0.936
+P36021              	   344	    K	    A	         ?	P36021    	   344	  K	  A	 possibly damaging	     0.458	    0.0994	     0.888
+P36021              	   354	    K	    A	         ?	P36021    	   354	  K	  A	            benign	     0.065	     0.159	     0.937
+P36021              	   385	    K	    A	         ?	P36021    	   385	  K	  A	            benign	     0.094	     0.147	     0.931
+P36021              	   386	    K	    A	         ?	P36021    	   386	  K	  A	            benign	     0.297	     0.114	     0.906
+P36021              	   506	    K	    A	         ?	P36021    	   506	  K	  A	            benign	     0.035	     0.177	     0.945
+P36021              	   507	    K	    A	         ?	P36021    	   507	  K	  A	            benign	     0.068	     0.158	     0.936
+P36021              	   514	    K	    A	         ?	P36021    	   514	  K	  A	 possibly damaging	     0.537	    0.0951	      0.88
+P36021              	   516	    K	    A	         ?	P36021    	   516	  K	  A	            benign	     0.101	     0.145	     0.929
+P36021              	   137	    R	    A	         ?	P36021    	   137	  R	  A	            benign	     0.006	     0.253	     0.967
+P36021              	   167	    R	    A	         ?	P36021    	   167	  R	  A	 possibly damaging	     0.458	    0.0994	     0.888
+P36021              	   171	    R	    A	         ?	P36021    	   171	  R	  A	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   197	    R	    A	         ?	P36021    	   197	  R	  A	            benign	     0.045	     0.169	     0.942
+P36021              	   226	    R	    A	         ?	P36021    	   226	  R	  A	 probably damaging	     0.959	    0.0488	     0.782
+P36021              	   227	    R	    A	         ?	P36021    	   227	  R	  A	 probably damaging	     0.997	    0.0167	     0.409
+P36021              	   251	    R	    A	         ?	P36021    	   251	  R	  A	            benign	     0.025	     0.189	     0.949
+P36021              	   281	    R	    A	         ?	P36021    	   281	  R	  A	 possibly damaging	     0.486	     0.098	     0.885
+P36021              	   294	    R	    A	         ?	P36021    	   294	  R	  A	            benign	     0.002	     0.704	     0.987
+P36021              	   297	    R	    A	         ?	P36021    	   297	  R	  A	            benign	     0.001	     0.852	     0.994
+P36021              	   302	    R	    A	         ?	P36021    	   302	  R	  A	            benign	     0.012	     0.219	     0.958
+P36021              	   308	    R	    A	         ?	P36021    	   308	  R	  A	            benign	      0.18	     0.129	     0.918
+P36021              	   314	    R	    A	         ?	P36021    	   314	  R	  A	            benign	     0.015	     0.209	     0.956
+P36021              	   317	    R	    A	         ?	P36021    	   317	  R	  A	            benign	     0.269	     0.116	     0.909
+P36021              	   319	    R	    A	         ?	P36021    	   319	  R	  A	 possibly damaging	     0.682	    0.0841	     0.862
+P36021              	   322	    R	    A	         ?	P36021    	   322	  R	  A	            benign	     0.092	     0.148	     0.931
+P36021              	   371	    R	    A	         ?	P36021    	   371	  R	  A	 probably damaging	     0.994	    0.0289	     0.689
+P36021              	   470	    R	    A	         ?	P36021    	   470	  R	  A	            benign	     0.012	     0.219	     0.958
+P36021              	   138	    Q	    A	         ?	P36021    	   138	  Q	  A	            benign	     0.006	     0.253	     0.967
+P36021              	   142	    Q	    A	         ?	P36021    	   142	  Q	  A	            benign	         0	         1	         1
+P36021              	   214	    Q	    A	         ?	P36021    	   214	  Q	  A	            benign	     0.193	     0.126	     0.917
+P36021              	   225	    Q	    A	         ?	P36021    	   225	  Q	  A	            benign	       0.1	     0.145	     0.929
+P36021              	   261	    Q	    A	         ?	P36021    	   261	  Q	  A	            benign	     0.003	     0.556	     0.981
+P36021              	   264	    Q	    A	         ?	P36021    	   264	  Q	  A	            benign	     0.429	     0.102	     0.892
+P36021              	   288	    Q	    A	         ?	P36021    	   288	  Q	  A	            benign	     0.004	     0.408	     0.975
+P36021              	   306	    Q	    A	         ?	P36021    	   306	  Q	  A	            benign	     0.003	     0.556	     0.981
+P36021              	   318	    Q	    A	         ?	P36021    	   318	  Q	  A	            benign	     0.003	     0.556	     0.981
+P36021              	   390	    Q	    A	         ?	P36021    	   390	  Q	  A	 possibly damaging	     0.901	    0.0625	     0.818
+P36021              	   443	    Q	    A	         ?	P36021    	   443	  Q	  A	 possibly damaging	     0.915	    0.0601	     0.813
+P36021              	   446	    Q	    A	         ?	P36021    	   446	  Q	  A	 possibly damaging	     0.461	    0.0994	     0.888
+P36021              	   138	    Q	    E	         ?	P36021    	   138	  Q	  E	            benign	     0.004	     0.408	     0.975
+P36021              	   147	    G	    R	         ?	P36021    	   147	  G	  R	 probably damaging	     0.996	    0.0222	     0.545
+P36021              	   202	    G	    R	         ?	P36021    	   202	  G	  R	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   221	    G	    R	         ?	P36021    	   221	  G	  R	 possibly damaging	     0.899	    0.0628	     0.819
+P36021              	   238	    G	    R	         ?	P36021    	   238	  G	  R	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   327	    G	    R	         ?	P36021    	   327	  G	  R	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   462	    G	    R	         ?	P36021    	   462	  G	  R	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   490	    G	    R	         ?	P36021    	   490	  G	  R	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   150	    A	    V	         ?	P36021    	   150	  A	  V	 possibly damaging	     0.673	     0.085	     0.862
+P36021              	   150	    A	    T	         ?	P36021    	   150	  A	  T	            benign	     0.157	     0.133	     0.921
+P36021              	   212	    A	    T	         ?	P36021    	   212	  A	  T	 possibly damaging	       0.9	    0.0627	     0.818
+P36021              	   150	    A	    S	         ?	P36021    	   150	  A	  S	            benign	     0.001	     0.852	     0.994
+P36021              	   178	    A	    S	         ?	P36021    	   178	  A	  S	            benign	     0.022	     0.195	     0.951
+P36021              	   212	    A	    S	         ?	P36021    	   212	  A	  S	 possibly damaging	     0.638	    0.0888	     0.867
+P36021              	   150	    A	    E	         ?	P36021    	   150	  A	  E	 possibly damaging	      0.62	    0.0902	      0.87
+P36021              	   153	    M	    R	         ?	P36021    	   153	  M	  R	 possibly damaging	     0.907	    0.0615	     0.815
+P36021              	   161	    V	    M	         ?	P36021    	   161	  V	  M	 probably damaging	     0.994	    0.0289	     0.689
+P36021              	   161	    V	    I	         ?	P36021    	   161	  V	  I	 possibly damaging	     0.685	    0.0836	     0.861
+P36021              	   272	    V	    I	         ?	P36021    	   272	  V	  I	            benign	         0	         1	         1
+P36021              	   165	    T	    P	         ?	P36021    	   165	  T	  P	 probably damaging	     0.985	    0.0375	      0.74
+P36021              	   166	    D	    A	         ?	P36021    	   166	  D	  A	            benign	     0.218	     0.122	     0.914
+P36021              	   255	    D	    A	         ?	P36021    	   255	  D	  A	            benign	         0	         1	         1
+P36021              	   289	    D	    A	         ?	P36021    	   289	  D	  A	            benign	     0.197	     0.126	     0.916
+P36021              	   379	    D	    A	         ?	P36021    	   379	  D	  A	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   409	    D	    A	         ?	P36021    	   409	  D	  A	            benign	         0	         1	         1
+P36021              	   424	    D	    A	         ?	P36021    	   424	  D	  A	 probably damaging	     0.989	    0.0346	     0.723
+P36021              	   475	    D	    A	         ?	P36021    	   475	  D	  A	            benign	     0.027	     0.186	     0.948
+P36021              	   178	    A	    P	         ?	P36021    	   178	  A	  P	 probably damaging	     0.967	     0.046	     0.773
+P36021              	   197	    R	    S	         ?	P36021    	   197	  R	  S	 possibly damaging	     0.695	    0.0828	      0.86
+P36021              	   371	    R	    S	         ?	P36021    	   371	  R	  S	 possibly damaging	     0.927	    0.0581	     0.807
+P36021              	   197	    R	    K	         ?	P36021    	   197	  R	  K	            benign	     0.037	     0.176	     0.945
+P36021              	   226	    R	    K	         ?	P36021    	   226	  R	  K	            benign	     0.042	     0.172	     0.943
+P36021              	   227	    R	    K	         ?	P36021    	   227	  R	  K	 possibly damaging	     0.662	    0.0862	     0.864
+P36021              	   371	    R	    K	         ?	P36021    	   371	  R	  K	 possibly damaging	     0.783	    0.0745	     0.848
+P36021              	   197	    R	    L	         ?	P36021    	   197	  R	  L	            benign	      0.01	     0.226	      0.96
+P36021              	   371	    R	    L	         ?	P36021    	   371	  R	  L	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   197	    R	    H	         ?	P36021    	   197	  R	  H	 probably damaging	     0.996	    0.0222	     0.545
+P36021              	   208	    G	    C	         ?	P36021    	   208	  G	  C	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   233	    G	    C	         ?	P36021    	   233	  G	  C	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   467	    G	    C	         ?	P36021    	   467	  G	  C	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   208	    G	    D	         ?	P36021    	   208	  G	  D	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   375	    G	    D	         ?	P36021    	   375	  G	  D	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   425	    G	    D	         ?	P36021    	   425	  G	  D	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   484	    G	    D	         ?	P36021    	   484	  G	  D	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   209	    C	    Y	         ?	P36021    	   209	  C	  Y	            benign	     0.445	       0.1	     0.889
+P36021              	   417	    C	    Y	         ?	P36021    	   417	  C	  Y	 probably damaging	     0.983	    0.0387	     0.745
+P36021              	   215	    P	    L	         ?	P36021    	   215	  P	  L	 probably damaging	     0.993	    0.0301	     0.696
+P36021              	   247	    P	    L	         ?	P36021    	   247	  P	  L	 probably damaging	     0.984	    0.0381	     0.743
+P36021              	   463	    P	    L	         ?	P36021    	   463	  P	  L	 probably damaging	     0.997	    0.0167	     0.409
+P36021              	   217	    L	    R	         ?	P36021    	   217	  L	  R	 probably damaging	     0.997	    0.0167	     0.409
+P36021              	   275	    L	    R	         ?	P36021    	   275	  L	  R	 possibly damaging	     0.956	    0.0501	     0.785
+P36021              	   283	    L	    R	         ?	P36021    	   283	  L	  R	            benign	     0.417	     0.103	     0.893
+P36021              	   397	    L	    R	         ?	P36021    	   397	  L	  R	 probably damaging	     0.994	    0.0289	     0.689
+P36021              	   413	    L	    R	         ?	P36021    	   413	  L	  R	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   221	    G	    S	         ?	P36021    	   221	  G	  S	 possibly damaging	     0.786	    0.0742	     0.847
+P36021              	   229	    G	    S	         ?	P36021    	   229	  G	  S	            benign	     0.226	     0.121	     0.913
+P36021              	   453	    G	    S	         ?	P36021    	   453	  G	  S	 probably damaging	     0.975	    0.0436	     0.762
+P36021              	   223	    Y	    F	         ?	P36021    	   223	  Y	  F	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   280	    Y	    F	         ?	P36021    	   280	  Y	  F	            benign	     0.082	     0.153	     0.933
+P36021              	   224	    F	    Y	         ?	P36021    	   224	  F	  Y	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   224	    F	    L	         ?	P36021    	   224	  F	  L	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   232	    N	    F	         ?	P36021    	   232	  N	  F	 probably damaging	     0.997	    0.0167	     0.409
+P36021              	   239	    S	    R	         ?	P36021    	   239	  S	  R	 probably damaging	     0.996	    0.0222	     0.545
+P36021              	   280	    Y	    C	         ?	P36021    	   280	  Y	  C	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   286	    S	    D	         ?	P36021    	   286	  S	  D	            benign	     0.029	     0.183	     0.948
+P36021              	   292	    S	    D	         ?	P36021    	   292	  S	  D	            benign	         0	         1	         1
+P36021              	   512	    S	    D	         ?	P36021    	   512	  S	  D	 possibly damaging	     0.537	    0.0951	      0.88
+P36021              	   513	    S	    D	         ?	P36021    	   513	  S	  D	            benign	     0.198	     0.125	     0.916
+P36021              	   314	    R	    Q	         ?	P36021    	   314	  R	  Q	            benign	     0.322	     0.112	     0.903
+P36021              	   324	    W	    R	         ?	P36021    	   324	  W	  R	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   359	    L	    V	         ?	P36021    	   359	  L	  V	 probably damaging	     0.965	     0.047	     0.776
+P36021              	   359	    L	    H	         ?	P36021    	   359	  L	  H	 probably damaging	         1	   0.00026	   0.00018
+P36021              	   360	    L	    W	         ?	P36021    	   360	  L	  W	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   367	    S	    T	         ?	P36021    	   367	  S	  T	 probably damaging	     0.976	     0.043	      0.76
+P36021              	   445	    S	    T	         ?	P36021    	   445	  S	  T	 possibly damaging	     0.592	    0.0924	     0.874
+P36021              	   367	    S	    P	         ?	P36021    	   367	  S	  P	 probably damaging	     0.965	     0.047	     0.776
+P36021              	   367	    S	    L	         ?	P36021    	   367	  S	  L	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   445	    S	    L	         ?	P36021    	   445	  S	  L	 probably damaging	     0.974	    0.0438	     0.763
+P36021              	   371	    R	    C	         ?	P36021    	   371	  R	  C	 probably damaging	     0.988	    0.0353	     0.727
+P36021              	   379	    D	    V	         ?	P36021    	   379	  D	  V	 probably damaging	     0.999	   0.00574	     0.136
+P36021              	   379	    D	    E	         ?	P36021    	   379	  D	  E	 probably damaging	      0.99	    0.0338	     0.719
+P36021              	   424	    D	    E	         ?	P36021    	   424	  D	  E	 possibly damaging	     0.944	    0.0544	     0.797
+P36021              	   379	    D	    N	         ?	P36021    	   379	  D	  N	 probably damaging	      0.99	    0.0338	     0.719
+P36021              	   424	    D	    N	         ?	P36021    	   424	  D	  N	 probably damaging	     0.995	    0.0277	     0.681
+P36021              	   402	    M	    I	         ?	P36021    	   402	  M	  I	            benign	     0.025	     0.189	     0.949
+P36021              	   415	    V	    D	         ?	P36021    	   415	  V	  D	 probably damaging	     0.994	    0.0289	     0.689
+P36021              	   479	    A	    D	         ?	P36021    	   479	  A	  D	 probably damaging	     0.998	    0.0112	     0.273
+P36021              	   479	    A	    N	         ?	P36021    	   479	  A	  N	 probably damaging	     0.998	    0.0112	     0.273
