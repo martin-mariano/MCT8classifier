@@ -11,7 +11,7 @@ Stefan Groeneweg and Ferdy S. van Geest *et al*.
 ----
 
 ### Requirements:
-- Python3 (Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Bio.PDB).
+- Python3 (Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Biopython.PDB).
 
 note: recommended to run in conda environment.
 
@@ -23,7 +23,7 @@ no installation required
 ----
 
 ### Demo and Instructions for use:
-Jupyter-notebooks are numerated in their order of usage. All files needed are provided.
+Jupyter-notebooks are listed in the order of use. All files needed are provided.
 
 1-Data pre-processing and Explorative Data Analysis.
 
