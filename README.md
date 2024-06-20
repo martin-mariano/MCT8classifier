@@ -27,7 +27,7 @@ Jupyter-notebooks are listed in the order of use. All files needed are provided.
 
 1-Data pre-processing and Explorative Data Analysis.
 
-2-Polyphen2 and SIFT scores processing.
+2-VEPs scores processing.
 
 3-Classifier development.
 
