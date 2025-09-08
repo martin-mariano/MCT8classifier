@@ -1,5 +1,5 @@
 # MCT8 Classifier
-----
+
 Welcome to the MCT8 classifier repository.
 
 Here you find the code for reproducing the MCT8 variant classifier reported in:
