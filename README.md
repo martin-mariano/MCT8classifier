@@ -6,7 +6,7 @@ Here you find the code for reproducing the MCT8 variant classifier reported in:
 
 **Mapping variants in thyroid hormone transporter MCT8 to disease severity by genomic, phenotypic, functional, structural and deep learning integration: an international multicentre cohort study.**
 
-Stefan Groeneweg and Ferdy S. van Geest *et al*. DOI: 10.1038/s41467-025-56628-w
+Stefan Groeneweg and Ferdy S. van Geest *et al*. DOI: [10.1038/s41467-025-56628-w](url)
 
 ----
 
